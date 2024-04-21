@@ -7,8 +7,8 @@ This is a simple web application for calculating average grades. It allows users
 1. Clone the repository to your local machine.
 2. Navigate to the appropriate folder:
 
-- **Collage**: For calculating college grades.
-- **Elementary or high school**: For calculating elementary or high school grades.
+   - **Collage**: For calculating college grades.
+   - **Elementary or high school**: For calculating elementary or high school grades.
 
 3. Open the index.html file in your web browser.
 
