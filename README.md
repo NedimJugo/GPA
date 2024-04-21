@@ -26,7 +26,7 @@ This is a simple web application for calculating average grades. It allows users
 
 ## How to Use
 
-- **Adding Grades**: Click the "Add Grade" button to add additional grade input fields.
+- **Adding Grades**: Click the "Add Grade" button to add additional grade input fields. Shortcut Ctrl+C also does the same as "Add Grade" button
 - **Removing Grades**: Click the "Remove Grade" button to remove the last grade input field.
 - **Calculating Average**: Click the "Calculate Average" button to calculate the average grade based on the input values.
 - **Resetting**: Click the "Reset" button to clear all input fields and reset the calculation.
